@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/enveryurtsever/xupfly?color=22c55e" alt="MIT License" />
+  <img src="https://img.shields.io/github/license/enveryurtsever/xupfly?color=22c55e&cacheSeconds=3600" alt="MIT License" />
   <img src="https://img.shields.io/badge/Next.js-16-000000?logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-Drizzle%20ORM-336791?logo=postgresql&logoColor=white" alt="PostgreSQL and Drizzle ORM" />
   <img src="https://img.shields.io/badge/AI-Gemini%20%7C%20OpenAI%20%7C%20Claude%20%7C%20fal.ai-6366f1" alt="AI Providers" />
